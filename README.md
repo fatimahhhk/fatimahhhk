@@ -1,11 +1,10 @@
-### Hi there 👋
+### Hi, I'm Fatimah and I'm currently a second-year student at Rutgers University double majoring in Finance and Computer Science. I am set to graudate in May of 2026. 
 
 <!--
 **fatimahhhk/fatimahhhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I’m currently interning at Moore Statistics Consulting Foundation. 
+### I'm currently working on a project where I am creating a video series on Patreon to provide lessons to nonprofits on Excel skills and shortcuts. 
+### My pronouns are she/her/hers. 
